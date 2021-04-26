@@ -1,0 +1,17 @@
+{
+  "name": "Rest API",
+  "version": "1.0.0",
+  "description": "Curso de API Rest",
+  "main": "index.js",
+  "author": "Marcos Vinicius Fernandes Dourado",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

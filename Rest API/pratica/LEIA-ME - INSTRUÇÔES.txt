@@ -1,0 +1,11 @@
+1- Instale o NodeJS em sua maquina
+2- Instale o Postman ou o Insomnia
+3- Instale o VScode
+4- Abra a oasta di cidugi no vscode
+5- Abra um terminal no vscode - Menu Terminal -> new Terminal
+6- Rode o comando -> npm i
+7- Rode o comando -> npm start
+
+
+
+
