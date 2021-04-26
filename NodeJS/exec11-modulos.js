@@ -1,5 +1,3 @@
-//ASYNC E AWAIT
-
 //função assyncrona
 function calcularSalario(salarioBruto){
     //retorna 2 metodos
@@ -17,7 +15,5 @@ async function main (){
         console.log(`Mensagem de ERROR: ${error}`)
     }
 }
-main()
-
-
-
+var textoTela = "Importação do arquivo 10 para o arquivo 11"
+module.exports={textoTela,main}
